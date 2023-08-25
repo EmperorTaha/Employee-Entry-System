@@ -48,3 +48,17 @@ Real-time image recognition
 Seamless and secure access control
 Code Example
 An example code snippet demonstrating PyTorch-based image recognition.
+
+
+## Contributing
+Contributions are welcome. Please submit pull requests or raise issues for enhancements.
+
+## License
+This project is licensed under the [Your License] license.
+
+## Contact
+For inquiries or collaborations, email us at email@example.com.
+
+## Acknowledgments
+Thanks to the open-source community and Dr. Abid Imran for guidance and support.
+
